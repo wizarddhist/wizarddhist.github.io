@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wizarddhist.github.io/</id>
+    <title>CCOAG</title>
+    <updated>2020-06-19T10:11:40.846Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wizarddhist.github.io/"/>
+    <link rel="self" href="https://wizarddhist.github.io/atom.xml"/>
+    <subtitle>Cold Conscience of A Generation</subtitle>
+    <logo>https://wizarddhist.github.io/images/avatar.png</logo>
+    <icon>https://wizarddhist.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, CCOAG</rights>
+</feed>
